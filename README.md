@@ -12,7 +12,6 @@
 ## 🚀 Sobre mim
 💡 Atualmente cursando **Desenvolvimento de Sistemas** no SENAI Hermenegildo Campos  
 📚 Sempre aprendendo e evoluindo na área de tecnologia  
-🔐 Tenho admiração pela área de Cibersegurança e estou considerando seguir por esse caminho  
 ⚖️ Atualmente decidindo entre seguir como **Desenvolvedor de Software** ou na área de **Cibersegurança**  
 🎯 Buscando me tornar um profissional completo na área de tecnologia  
 
