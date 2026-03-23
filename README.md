@@ -17,18 +17,33 @@
 
 ## 🛠️ Tecnologias
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 Estatísticas
+## 📚 Atualmente estudando
+- Lógica de programação  
+- Estruturas de dados  
+- Desenvolvimento de sistemas  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+---
+
+## 🎯 Objetivos
+- Evoluir como desenvolvedor  
+- Criar projetos próprios  
+- Conseguir minha primeira oportunidade na área  
+
+---
+
+## ⚡ Curiosidades
+- Gosto de aprender na prática  
+- Curto tecnologia e inovação  
+- Sempre buscando melhorar um pouco todo dia  
 
 ---
 
