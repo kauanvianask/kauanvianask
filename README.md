@@ -1,30 +1,54 @@
-:mortar_board: Sobre Mim
-:telescope: Estudando no SENAI Hermenegildo Campos de Almeida
-:seedling: Atualmente iniciando na programação
+<h1 align="center">👋 Olá, eu sou o Kauan Viana Soares</h1>
 
-:computer: Tecnologias & Ferramentas
-<div align="center">
-
-Linguagens & Frameworks
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-
-Ferramentas de Desenvolvimento
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" alt="Eclipse" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
-
-</div>
-
-:mailbox: Como me encontrar
-<div align="center">
-
-
-</div>
+<p align="center">
+  🎓 Estudante de Desenvolvimento de Sistemas <br>
+  💻 Focado em Python e Java <br>
+  🚀 Em constante evolução
+</p>
 
 ---
 
-<div align="center">## Hi there 👋
+## 🚀 Sobre mim
+💡 Atualmente cursando **Desenvolvimento de Sistemas** no SENAI Hermenegildo Campos  
+📚 Sempre aprendendo e evoluindo na área de tecnologia  
+🎯 Buscando me tornar um desenvolvedor cada vez mais completo  
 
+---
+
+## 🛠️ Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Streak de Contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Vamos nos conectar
+
+<p>
+  <a href="https://linkedin.com/in/SEU-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
