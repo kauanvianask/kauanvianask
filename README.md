@@ -1,7 +1,6 @@
 :mortar_board: Sobre Mim
 :telescope: Estudando no SENAI Hermenegildo Campos de Almeida
 :seedling: Atualmente iniciando na programação
-:smile: Pronomes: ele/dele
 
 :computer: Tecnologias & Ferramentas
 <div align="center">
