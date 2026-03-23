@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Estudante de Desenvolvimento de Sistemas <br>
   💻 Focado em Python e Java <br>
-  🔐 Interessado em Cibersegurança <br>
+  🔐 Interessado em Cibersegurança e Desenvolvimento de Softwares <br>
   🚀 Em constante evolução
 </p>
 
