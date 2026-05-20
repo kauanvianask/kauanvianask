@@ -1,10 +1,9 @@
-<h1 align="center">👋 Olá, eu sou o Kauan Viana Soares</h1>
+<h1 align="center"> Olá, eu sou o Kauan Viana Soares</h1>
 
 <p align="center">
   🎓 Estudante de Desenvolvimento de Sistemas <br>
   💻 Focado em Python e Java <br>
-  🔐 Interessado em Cibersegurança e Desenvolvimento de Softwares <br>
-  🚀 Em constante evolução
+  🔐 Interessado em Desenvolvimento de Softwares <br>
 </p>
 
 ---
@@ -12,7 +11,7 @@
 ## 🚀 Sobre mim
 💡 Atualmente cursando **Desenvolvimento de Sistemas** no SENAI Hermenegildo Campos  
 📚 Sempre aprendendo e evoluindo na área de tecnologia  
-⚖️ Atualmente decidindo entre seguir como **Desenvolvedor de Software** ou na área de **Cibersegurança**  
+⚖️ Atualmente decidido em seguir como **Desenvolvedor de sistemas**   
 🎯 Buscando me tornar um profissional completo na área de tecnologia  
 
 ---
@@ -40,7 +39,6 @@
 - Evoluir como desenvolvedor  
 - Criar projetos próprios  
 - Conseguir minha primeira oportunidade na área  
-- Definir entre Cibersegurança ou Desenvolvimento de Software  
 
 ---
 
