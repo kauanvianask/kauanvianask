@@ -1,7 +1,20 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,30:071A52,65:0047FF,85:00CFFF,100:00FFE1&text=KAUAN%20VIANA&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=DESENVOLVIMENTO%20%7C%20TECNOLOGIA%20%7C%20CRIATIVIDADE&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/> <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=700&color=00FFE1&center=true&vCenter=true&width=900&height=70&lines=OL%C3%81%2C+EU+SOU+O+KAUAN!+%F0%9F%91%8B;TRANSFORMANDO+IDEIAS+EM+REALIDADE+%F0%9F%92%BB;CRIANDO+PROJETOS+QUE+IMPORTAM+%F0%9F%9A%80;APRENDENDO+ALGO+NOVO+TODOS+OS+DIAS+%F0%9F%A7%A0;O+PR%C3%93XIMO+N%C3%8DVEL+COME%C3%87A+AGORA+%E2%9A%A1" alt="Apresentação animada"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050505,35:111827,65:1E3A8A,85:2563EB,100:64748B&text=KAUAN%20VIANA&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=DESENVOLVIMENTO%20%7C%20TECNOLOGIA%20%7C%20CRIATIVIDADE&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=700&color=60A5FA&center=true&vCenter=true&width=900&height=70&lines=OL%C3%81%2C+EU+SOU+O+KAUAN!+%F0%9F%91%8B;TRANSFORMANDO+IDEIAS+EM+REALIDADE+%F0%9F%92%BB;CRIANDO+PROJETOS+QUE+IMPORTAM+%F0%9F%9A%80;APRENDENDO+ALGO+NOVO+TODOS+OS+DIAS+%F0%9F%A7%A0;O+PR%C3%93XIMO+N%C3%8DVEL+COME%C3%87A+AGORA+%E2%9A%A1" alt="Apresentação animada"/>
+
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=kauanvianask&style=for-the-badge&color=00FFE1&labelColor=020617&label=VISITAS"/> <img src="https://img.shields.io/github/followers/kauanvianask?style=for-the-badge&logo=github&logoColor=FFFFFF&color=0047FF&labelColor=020617&label=SEGUIDORES"/> <img src="https://img.shields.io/github/stars/kauanvianask?style=for-the-badge&logo=github&logoColor=FFFFFF&color=7C3AED&labelColor=020617&label=ESTRELAS"/> </div>
+<img src="https://komarev.com/ghpvc/?username=kauanvianask&style=for-the-badge&color=2563EB&labelColor=050505&label=VISITAS"/>
+
+<img src="https://img.shields.io/github/followers/kauanvianask?style=for-the-badge&logo=github&logoColor=FFFFFF&color=475569&labelColor=050505&label=SEGUIDORES"/>
+
+<img src="https://img.shields.io/github/stars/kauanvianask?style=for-the-badge&logo=github&logoColor=FFFFFF&color=1E3A8A&labelColor=050505&label=ESTRELAS"/>
+
+</div>
 
 ---
 
