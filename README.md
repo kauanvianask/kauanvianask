@@ -22,7 +22,7 @@
 
 # Kauan Viana
 
-### 💻 Desenvolvedor em evolução • 👾 Constante Evolução
+### 💻 Desenvolvedor em evolução
 
 <br>
 
@@ -30,7 +30,7 @@
 ## 👨🏽‍💻 Sobre mim
 💡 Atualmente cursando **Desenvolvimento de Sistemas** no SENAI Hermenegildo Campos <br>
 📚 Sempre aprendendo e evoluindo na área de tecnologia <br>
-⚖️ Atualmente decidido em seguir como **Desenvolvedor de sistemas** <br>
+⚖️ Atualmente decidido em seguir como **Desenvolvedor Full Stack com foco em Back End** <br>
 🎯 Buscando me tornar um profissional completo na área de tecnologia <br>
 
 ---
