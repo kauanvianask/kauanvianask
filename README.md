@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=700&color=60A5FA&center=true&vCenter=true&width=900&height=70&lines=OL%C3%81%2C+EU+SOU+O+KAUAN!+%F0%9F%91%8B;TRANSFORMANDO+IDEIAS+EM+REALIDADE+%F0%9F%92%BB;CRIANDO+PROJETOS+QUE+IMPORTAM+%F0%9F%9A%80;APRENDENDO+ALGO+NOVO+TODOS+OS+DIAS+%F0%9F%A7%A0;O+PR%C3%93XIMO+N%C3%8DVEL+COME%C3%87A+AGORA+%E2%9A%A1" alt="Apresentação animada"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=700&color=60A5FA&center=true&vCenter=true&width=900&height=70&lines=OL%C3%81!+EU+SOU+KAUAN+VIANA+%F0%9F%91%8B;DESENVOLVEDOR+E+CRIADOR+DE+PROJETOS+%F0%9F%92%BB;CONSTRUINDO+SOLU%C3%87%C3%95ES+COM+TECNOLOGIA+%F0%9F%9A%80;APRENDENDO%2C+CRIANDO+E+EVOLUINDO+%F0%9F%A7%A0;IDEIAS+QUE+SE+TRANSFORMAM+EM+C%C3%93DIGO+%E2%9A%A1" alt="Apresentação animada"/>
 
 <br><br>
 
