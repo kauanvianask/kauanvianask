@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## 👨🏽‍💻 Sobre mim
 💡 Atualmente cursando **Desenvolvimento de Sistemas** no SENAI Hermenegildo Campos <br>
 📚 Sempre aprendendo e evoluindo na área de tecnologia <br>
 ⚖️ Atualmente decidido em seguir como **Desenvolvedor de sistemas** <br>
@@ -29,6 +29,20 @@
 
 ---
 
+## ⚡ Tecnologias Em Aprendizado
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+</div>
+
+
+---
+
 ## 📚 Atualmente estudando
 - Lógica de programação  
 - Estruturas de dados  
@@ -44,7 +58,7 @@
 
 ---
 
-## ⚡ Curiosidades
+## 🚩 Curiosidades
 - Gosto de aprender na prática  
 - Curto tecnologia e inovação  
 - Sempre buscando melhorar um pouco todo dia  
