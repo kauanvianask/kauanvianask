@@ -4,15 +4,15 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=700&color=00FFE1&center=true&vCenter=true&width=900&height=70&lines=OL%C3%81%2C+EU+SOU+O+NIKOLAS!+%F0%9F%91%8B;TRANSFORMANDO+IDEIAS+EM+REALIDADE+%F0%9F%92%BB;CRIANDO+PROJETOS+QUE+IMPORTAM+%F0%9F%9A%80;APRENDENDO+ALGO+NOVO+TODOS+OS+DIAS+%F0%9F%A7%A0;O+PR%C3%93XIMO+N%C3%8DVEL+COME%C3%87A+AGORA+%E2%9A%A1" alt="Apresentação animada"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=700&color=00FFE1&center=true&vCenter=true&width=900&height=70&lines=OL%C3%81%2C+Kauan Viana!+%F0%9F%91%8B;TRANSFORMANDO+IDEIAS+EM+REALIDADE+%F0%9F%92%BB;CRIANDO+PROJETOS+QUE+IMPORTAM+%F0%9F%9A%80;+%F0%9F%A7%A0;O+PR%C3%93XIMO+N%C3%8DVEL+COME%C3%87A+AGORA+%E2%9A%A1" alt="Apresentação animada"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=nikolasmatos-bit&style=for-the-badge&color=00FFE1&labelColor=020617&label=VISITAS"/>
+<img src="https://komarev.com/ghpvc/?username=kauanvianask-bit&style=for-the-badge&color=00FFE1&labelColor=020617&label=VISITAS"/>
 
 <img src="https://img.shields.io/github/followers/nikolasmatos-bit?style=for-the-badge&logo=github&logoColor=FFFFFF&color=0047FF&labelColor=020617&label=SEGUIDORES"/>
 
-<img src="https://img.shields.io/github/stars/nikolasmatos-bit?style=for-the-badge&logo=github&logoColor=FFFFFF&color=7C3AED&labelColor=020617&label=ESTRELAS"/>
+<img src="https://img.shields.io/github/stars/kauanvianask-bit?style=for-the-badge&logo=github&logoColor=FFFFFF&color=7C3AED&labelColor=020617&label=ESTRELAS"/>
 
 </div>
 
